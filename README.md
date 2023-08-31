@@ -1,4 +1,4 @@
-<p align:center > 👋 Hello, I'm Mohd Umair</p>
+<p align="center" > 👋 Hello, I'm Mohd Umair</p>
 
 ### Aspiring Machine Learning Engineer | Data Enthusiast
 
