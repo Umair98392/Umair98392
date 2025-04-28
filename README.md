@@ -12,7 +12,7 @@
 <p align="center"> 📊 Data enthusiast with a focus on exploring insights and solving real-world problems.</p>
 <p align="center"> 🌐 Open to collaborations and projects that involve cutting-edge technologies.</p>
 
-<h2 align="center" >📫 Let's Connect</h2>
+<h2 align="center" >📫 Let's Connect.</h2>
 
 <h3 align ="center"> 🌐 <a href="https://github.com/Umair98392"> GitHub</a>     💼 <a href="https://www.linkedin.com/in/umair98392/"> LinkedIn</a>      📧 <a href="mailto:umair98392@gmail.com">Email</a>       🐦 <a href="www.twitter.com">Twitter</a></h3>
 
